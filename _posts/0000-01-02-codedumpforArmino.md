@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide !"
 ---
-Today is a good day
+We will be done for today
 Use the left arrow to go back!
